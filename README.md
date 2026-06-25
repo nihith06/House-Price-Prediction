@@ -2,7 +2,7 @@
 # House Price Prediction
 
 ## Project Description
-A Machine Learning project that predicts house prices using Linear Regression and the California Housing Dataset.
+Machine Learning project for predicting house prices using Linear Regression and Scikit-Learn.
 
 ## Technologies Used
 - Python
@@ -13,7 +13,7 @@ A Machine Learning project that predicts house prices using Linear Regression an
 
 ## Results
 - Trained a Linear Regression model
-- Evaluated using R² Score
+- Evaluated using RÂ² Score
 - Saved model as house_price_model.pkl
 
 ## How to Run
